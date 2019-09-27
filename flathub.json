@@ -1,0 +1,5 @@
+{
+    "end-of-life": "Application has been renamed to org.gnome.Tetravex",
+    "end-of-life-rebase": "org.gnome.Tetravex",
+    "skip-appstream-check": true
+}
