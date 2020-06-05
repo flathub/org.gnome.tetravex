@@ -5,7 +5,8 @@
     "sdk": "org.gnome.Sdk",
     "command": "gnome-tetravex",
     "finish-args": [
-        "--share=ipc", "--socket=x11",
+        "--share=ipc", 
+        "--socket=fallback-x11",
         "--socket=wayland"
     ],
     "cleanup": [
@@ -21,8 +22,8 @@
             "sources": [
                 {
                 "type": "archive",
-                "url": "https://download.gnome.org/sources/gnome-tetravex/3.36/gnome-tetravex-3.36.0.tar.xz",
-                "sha256": "a258836b1064be835db01ccfa3dee6d92c3efdd54e37021be8639f03a9036df5"
+                "url": "https://download.gnome.org/sources/gnome-tetravex/3.36/gnome-tetravex-3.36.3.tar.xz",
+                "sha256": "fa46ffafd30998ddc22bba45750d47765ee1084fa465229d4308007264623378"
                 }
             ]
         }
