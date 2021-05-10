@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Tetravex",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.36",
+    "runtime-version": "40",
     "sdk": "org.gnome.Sdk",
     "command": "gnome-tetravex",
     "finish-args": [
@@ -22,8 +22,8 @@
             "sources": [
                 {
                 "type": "archive",
-                "url": "https://download.gnome.org/sources/gnome-tetravex/3.36/gnome-tetravex-3.36.3.tar.xz",
-                "sha256": "fa46ffafd30998ddc22bba45750d47765ee1084fa465229d4308007264623378"
+                "url": "https://download.gnome.org/sources/gnome-tetravex/3.38/gnome-tetravex-3.38.2.tar.xz",
+                "sha256": "1fcdf10979b9a3526009d783a1c88a389918f360da4edb44fba25c71f186911b"
                 }
             ]
         }
